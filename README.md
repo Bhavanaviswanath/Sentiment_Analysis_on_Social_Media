@@ -21,3 +21,17 @@ It utilizes **VADER Sentiment Analysis**, text cleaning, and visualization techn
 ```bash
 git clone https://github.com/your-username/sentiment-analysis.git
 cd sentiment-analysis
+
+### 2️⃣ Install Dependencies
+pip install pandas matplotlib wordcloud vaderSentiment
+
+### 3️⃣ Run the Script
+python sentiment_analysis.py
+
+### 🎯 Usage
+Running Sentiment Analysis on Dataset
+The script loads Twitter_Data.csv, cleans the text, and classifies sentiment.
+A bar chart and a word cloud are displayed.
+Predict Sentiment for a Custom Tweet
+Enter any tweet when prompted:
+
