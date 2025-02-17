@@ -16,22 +16,37 @@ It utilizes **VADER Sentiment Analysis**, text cleaning, and visualization techn
 - **Column Used:** `clean_text` – contains preprocessed tweets.  
 - If using your own dataset, make sure it has a column with text data.  
 
-## 🛠 Installation & Setup  
-### 1️⃣ **Clone the Repository**  
-```bash
-git clone https://github.com/your-username/sentiment-analysis.git
-cd sentiment-analysis
 
-### 2️⃣ Install Dependencies
+### 1️⃣ **Install Dependencies**
 pip install pandas matplotlib wordcloud vaderSentiment
 
-### 3️⃣ Run the Script
+### 2️⃣ **Run the Script**
 python sentiment_analysis.py
 
-### 🎯 Usage
+### 🎯 **Usage**
 Running Sentiment Analysis on Dataset
 The script loads Twitter_Data.csv, cleans the text, and classifies sentiment.
 A bar chart and a word cloud are displayed.
 Predict Sentiment for a Custom Tweet
 Enter any tweet when prompted:
+
+
+![image](https://github.com/user-attachments/assets/b1ed6124-da78-450d-ac4d-0348a50c12a9)
+![image](https://github.com/user-attachments/assets/0d17f72b-ac16-46d8-aa01-185e418fc2d2)
+
+### Novality
+Emoji & Slang-Based Sentiment Analysis 🎭
+Many sentiment models fail with emojis or internet slang.
+Example:
+"This update is 🔥🔥🔥" → Positive
+"This phone is 💀" → Negative
+
+
+
+## 🛠 Installation & Setup  
+### 3️⃣ **Clone the Repository**  
+```bash
+git clone https://github.com/your-username/sentiment-analysis.git
+cd sentiment-analysis
+
 
