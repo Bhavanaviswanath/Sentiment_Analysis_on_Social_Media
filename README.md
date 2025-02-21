@@ -30,9 +30,9 @@ A bar chart and a word cloud are displayed.
 Predict Sentiment for a Custom Tweet
 Enter any tweet when prompted:
 
+![image](https://github.com/user-attachments/assets/3a58d253-3b8f-4acc-a45a-1094732b13d4)
+![image](https://github.com/user-attachments/assets/525d70ca-d486-44dc-8519-36aa41517a14)
 
-![image](https://github.com/user-attachments/assets/b1ed6124-da78-450d-ac4d-0348a50c12a9)
-![image](https://github.com/user-attachments/assets/0d17f72b-ac16-46d8-aa01-185e418fc2d2)
 
 ### Novality
 Emoji & Slang-Based Sentiment Analysis 🎭
