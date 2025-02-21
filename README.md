@@ -46,7 +46,7 @@ Example:
 ## 🛠 Installation & Setup  
 ### 3️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/your-username/sentiment-analysis.git
+git clone (https://github.com/Bhavanaviswanath/Twitter_Sentiment_Analysis_by-using-VADER)
 cd sentiment-analysis
 
 
